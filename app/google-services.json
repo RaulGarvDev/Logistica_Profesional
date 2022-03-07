@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684734431292",
+    "project_id": "logistica-d1f49",
+    "storage_bucket": "logistica-d1f49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684734431292:android:ce2d9acc8c0dcf309f4339",
+        "android_client_info": {
+          "package_name": "com.versys.logistica_profesional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684734431292-oi86bq5fpojrb15qd0ra02saqm769i9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtjXFwrjKkiUHh3Wjs3Z8CGfksy0ovkNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684734431292-oi86bq5fpojrb15qd0ra02saqm769i9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
