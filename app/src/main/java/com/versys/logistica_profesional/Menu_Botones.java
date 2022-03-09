@@ -15,7 +15,7 @@ public class Menu_Botones extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu_botones);
 
-        boton_web = findViewById(R.id.boton_web);
+        /*boton_web = findViewById(R.id.boton_web);
 
 
         boton_web.setOnClickListener(new View.OnClickListener() {
@@ -25,7 +25,7 @@ public class Menu_Botones extends AppCompatActivity {
                 startActivity(intent);
                 finish();
             }
-        });
+        }); */
 
 
     }
